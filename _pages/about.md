@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "Yuyang's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
